@@ -4,7 +4,7 @@ print('O número é: {}!'.format(n1))
 print('O dobro desse número é: {}!'.format(n1*2))
 print('O triplo desse número é: {}!'.format(n1*3))
 print('A raiz quadrada desse número é: {}!'.format(n1**(1/2)))
-
+#outra forma do código
 n = int(input('Digite um número: '))
 d = n*2
 t = n*3
