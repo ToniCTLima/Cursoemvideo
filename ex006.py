@@ -21,4 +21,4 @@ triplo = n*3
 raiz = n**(1/2)
 print(f'O dobro de {n} é: {dobro}')
 print(f'O triplo de {n} é: {triplo}')
-print(f'A raiz quadrada de {n} é igual a: {raiz}') # finalizar a raiz quadrada
+print(f'A raiz quadrada de {n} é igual a: {raiz}')
