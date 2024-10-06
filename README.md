@@ -15,6 +15,6 @@ ex 008 - Programa que le um valor em metros e o exibe convertido em centimetros 
 
 ex 009 - Programa que le um número inteiro qualquer e mostre na tela sua tabuada.
 
-ex o10 - Programa que le quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. 
+ex 010 - Programa que le quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. 
 
 
