@@ -15,7 +15,7 @@ print('O triplo de {} vale {}. A raiz quadrada de {} é igual a {:.2f}'.format(n
 
 # Usando o f-string para substituir o .format
 
-n = int(input(f'Digite um número: '))
+n = int(input('Digite um número: '))
 dobro = n*2
 triplo = n*3
 raiz = n**(1/2)
