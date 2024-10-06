@@ -12,3 +12,6 @@ ex005 - Programa que le o número inteiro e mostra na tela seu sucessor e seu an
 ex 007 - Programa que le duas notas de um aluno, calcula e mostra sua média.
 
 ex 008 - Programa que le um valor em metros e o exibe convertido em centimetros e milímetros.
+
+ex 009 - Programa que le um número inteiro qualquer e mostre na tela sua tabuada.
+
