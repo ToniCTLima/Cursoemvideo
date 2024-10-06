@@ -1,4 +1,4 @@
-Prejetos e exercícios realizados através Curso de Python do canal do YT - Curso em Vídeo.
+Projetos e exercícios realizados através Curso de Python do canal do YT - Curso em Vídeo.
 https://youtu.be/S9uPNppGsGo?si=p4K9sW4xdPpZFZBX
 
 ex001 - Olá Mundo.
