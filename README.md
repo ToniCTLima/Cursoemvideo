@@ -17,4 +17,6 @@ ex 009 - Programa que le um número inteiro qualquer e mostre na tela sua tabuad
 
 ex 010 - Programa que le quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar. 
 
+ex 011 - Programa que calcula a área de uma parede e mostra quanto de tinta irá ser gasto para pintar a parede.
+
 
