@@ -8,3 +8,5 @@ ex002 - Programa que le o nome de uma pessoa e mostre uma mensagem de boas vinda
 ex003 - Script que le dois números e mostra a soma entre eles.
 
 ex005 - Programa que le o número inteiro e mostra na tela seu sucessor e seu antecessor
+
+ex 007 - Programa que le duas notas de um aluno, calcula e mostra sua média.
