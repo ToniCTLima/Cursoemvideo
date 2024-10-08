@@ -19,4 +19,12 @@ ex 010 - Programa que le quanto dinheiro uma pessoa tem na carteira e mostre qua
 
 ex 011 - Programa que calcula a área de uma parede e mostra quanto de tinta irá ser gasto para pintar a parede.
 
+ex 012 - Programa que le o preço de um produto e mostre o novo preço, com 5% de desconto.
+
+ex 013 - Programa que le o salário de um funcionário e mostre seu novo salário com 15% de aumento.
+
+ex 014 - Programa que le uma temperatura digitada em C° e converte para F°
+
+
+
 
