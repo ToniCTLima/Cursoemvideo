@@ -25,6 +25,8 @@ ex 013 - Programa que le o salário de um funcionário e mostre seu novo salári
 
 ex 014 - Programa que le uma temperatura digitada em C° e converte para F°
 
+ex 015 - Programa que pergunta a quantidade de km percorridos por um carro alugado e a quantidade de dias pelo quais ele foi alugado e calcula o preço total do aluguel.
+
 
 
 
