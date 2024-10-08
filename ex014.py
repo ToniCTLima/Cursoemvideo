@@ -10,4 +10,4 @@ f = float(input('Digite a temperatura: '))
 c = (f - 32)  * 5 / 9
 print('A temperatuta {} f°, corresponde a {} c°'.format(f, c))
 
-          
+ # Teste         
