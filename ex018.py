@@ -1,5 +1,6 @@
 # Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 
+# Resolução errada
 # import math
 # cos = float(input('Digite um ângulo para o cosseno: '),math.cos())
 # sen = float(input('Digite um ângulo para o seno: '))
