@@ -27,6 +27,8 @@ ex 014 - Programa que le uma temperatura digitada em C° e converte para F°
 
 ex 015 - Programa que pergunta a quantidade de km percorridos por um carro alugado e a quantidade de dias pelo quais ele foi alugado e calcula o preço total do aluguel.
 
+ex 016 - Faça um programa que leia um número real qualquer pelo teclado e mostre na tela sua porção inteira.
 
+ex 017 - Faça um programa que leia o comprimento do cateto adjacente, do cateto oposto de um triângulo retãngulo, calcule o mostre o comprimento da hipotenusa
 
-
+ex 018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do SENO, COSSENO e TANGENTE desse ângulo.
