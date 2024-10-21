@@ -32,3 +32,5 @@ ex 016 - Faça um programa que leia um número real qualquer pelo teclado e most
 ex 017 - Faça um programa que leia o comprimento do cateto adjacente, do cateto oposto de um triângulo retãngulo, calcule o mostre o comprimento da hipotenusa
 
 ex 018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do SENO, COSSENO e TANGENTE desse ângulo.
+
+ex 019 - Faça um programa que sortei um nome aleatório.
