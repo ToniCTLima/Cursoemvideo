@@ -10,7 +10,7 @@ lista = [n1, n2, n3, n4]
 escolhido = random.choice(lista)
 print('O aluno escolhido foi: {}'.format(escolhido))
 
-# outra fomra
+# outra forma, com nomes já definidos
 
 n1 = 'Ana'
 n2 = 'Paula'
