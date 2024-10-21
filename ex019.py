@@ -10,3 +10,12 @@ lista = [n1, n2, n3, n4]
 escolhido = random.choice(lista)
 print('O aluno escolhido foi: {}'.format(escolhido))
 
+# outra fomra
+
+n1 = 'Ana'
+n2 = 'Paula'
+n3 = 'Luiz'
+n4 = 'Lucas'
+lista = [n1, n2, n3, n4]
+escolhido = random.choice(lista)
+print('O aluno escolhido foi: {}'.format(escolhido)
