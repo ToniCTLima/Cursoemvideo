@@ -36,3 +36,5 @@ ex 018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor
 ex 019 - Faça um programa que sortei um nome aleatório.
 
 ex 020 - Faça um programa que sorteie de forma aleatória nomes de uma lista.
+
+ex 021 - Faça um programa que rode um arquivo MP3.
